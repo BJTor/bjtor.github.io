@@ -2,10 +2,12 @@
 
 _Software engineer and manager at MathWorks_
 
-### Employment history
+I am currently working at MathWorks UK leading a team focussed on accelerating and scaling up mathematical algorithms to run in parallel on GPUs, clusters, and for Big Data. Prior to that I spent five years at MathWorks working as a technical consultant helping MathWorks' customers around the UK and Europe to solve problems in a wide range of fields from financial bond markets to coastal erosion, from knee X-rays to aerodynamics, and more.
 
-* 2010-     Software engineer, MathWorks UK Ltd.
-* 2005-2010 Technical Consultant, MathWorks UK Ltd.
-* 2004-2005 Post doctoral research associate, Engineering Department, Univerity of Cambridge
-* 2002-2004 Post doctoral research associate, Robotics Research Group, Univerity of Oxford
-* 1993-1994 National Grid Plc.
+### Interests & Projects
+
+* Fractals:
+** MATLAB Fractal Browser
+* Music:
+** Plural Sax
+** ???
