@@ -6,8 +6,9 @@ I am currently working at MathWorks UK leading a team focussed on accelerating a
 
 ### Interests & Projects
 
-* Fractals:
-   * MATLAB Fractal Browser
-* Music:
-   * Plural Sax
-   * ???
+#### Fractals: ####
+* MATLAB Fractal Browser
+   
+#### Music: ####
+* I help to run the sax ensemble [Plural Sax](https://pluralsax.com)
+* I use Lilypond to arrange sax music. Sources for some of these are below:
