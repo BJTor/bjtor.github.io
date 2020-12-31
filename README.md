@@ -7,7 +7,7 @@ I am currently working at MathWorks UK leading a team focussed on accelerating a
 ### Interests & Projects
 
 * Fractals:
-** MATLAB Fractal Browser
+   * MATLAB Fractal Browser
 * Music:
-** Plural Sax
-** ???
+   * Plural Sax
+   * ???
