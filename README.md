@@ -7,7 +7,9 @@ I am currently working at MathWorks UK leading a team focussed on accelerating a
 ### Interests & Projects
 
 #### Fractals: ####
-* MATLAB Fractal Browser
+* MATLAB GPU Fractal Browser
+* [MATLAB GPU Mandelbrot Set](https://www.mathworks.com/matlabcentral/fileexchange/30988-a-gpu-mandelbrot-set)
+* [MATLAB GPU Julia Set](https://www.mathworks.com/matlabcentral/fileexchange/33201-gpu-julia-set-explorer)
    
 #### Music: ####
 * I help to run the sax ensemble [Plural Sax](https://pluralsax.com)
