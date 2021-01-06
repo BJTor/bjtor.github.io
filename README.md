@@ -8,8 +8,8 @@ I work as a software engineer at MathWorks UK, leading a team focussed on accele
 
 #### Fractals: ####
 * [MATLAB GPU Fractal Browser](https://github.com/BJTor/GPU-Fractal-Explorer) (GitHub)
-* [MATLAB GPU Mandelbrot Set](https://www.mathworks.com/matlabcentral/fileexchange/30988-a-gpu-mandelbrot-set) (MATLAB File Exchange)
-* [MATLAB GPU Julia Set](https://www.mathworks.com/matlabcentral/fileexchange/33201-gpu-julia-set-explorer) (MATLAB File Exchange)
+* [MATLAB GPU Mandelbrot Set](https://github.com/BJTor/GPU-Mandelbrot-Set) ([![View A GPU Mandelbrot Set on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/30988-a-gpu-mandelbrot-set))
+* [MATLAB GPU Julia Set](https://github.com/BJTor/GPU-Julia-Set) ([![View GPU Julia Set Explorer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/33201-gpu-julia-set-explorer))
    
 #### Music: ####
 * I help to run the sax ensemble [Plural Sax](https://pluralsax.com)
