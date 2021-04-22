@@ -12,7 +12,7 @@ I work as a software engineer at MathWorks UK, leading a team focussed on accele
 * [MATLAB GPU Julia Set](https://github.com/BJTor/GPU-Julia-Set) ([![View GPU Julia Set Explorer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/33201-gpu-julia-set-explorer))
    
 #### Other MATLAB Stuff ####
-* [CPUInfo](https://github.com/BJTor/CPUInfo)
+* [CPUInfo](https://github.com/BJTor/CPUInfo) ([![View CPU Info on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/33155-cpu-info))
    
 #### Music: ####
 * I help to run the sax ensemble [Plural Sax](https://pluralsax.com)
